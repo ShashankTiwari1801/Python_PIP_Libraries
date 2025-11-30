@@ -1,0 +1,21 @@
+[project]
+name = "bel_selenium_fetcher"
+version = "0.1.2"
+description = "A simple Selenium-based webpage fetcher for fully rendered HTML"
+readme = "README.md"
+requires-python = ">=3.8"
+
+authors = [
+  { name="Belpheg0r", email="throwawaytest1801@gmail.com" }
+]
+
+dependencies = [
+  "selenium>=4.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/selenium-fetcher"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

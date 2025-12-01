@@ -16,10 +16,9 @@ This makes it ideal for scraping dynamic sites, debugging frontend rendering, or
 
 Install using the following pip command:
 
-'''
+```
 pip install bel_webpage_class_fetcher
-'''
-
+```
 
 # Requirements
 
